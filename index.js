@@ -1,6 +1,5 @@
 var Q = require("q");
 var Qimage = require("qimage");
-var WebGL = require("node-webgl");
 var fs = require("fs");
 var request = require("request");
 var tmp = require('tmp');

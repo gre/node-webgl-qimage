@@ -1,6 +1,6 @@
 {
   "name": "node-webgl-qimage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Image Loader for node-webgl based on Qimage",
   "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
   "main": "index.js",
@@ -10,7 +10,6 @@
   },
   "keywords": ["node-webgl", "q", "qimage", "loader"],
   "dependencies": {
-    "node-webgl": "git://github.com/gre/node-webgl.git",
     "q": "1.0.x",
     "qimage": "1.1.x",
     "request": "2.36.0",
